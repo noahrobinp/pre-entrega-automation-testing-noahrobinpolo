@@ -33,8 +33,10 @@ pre-entrega-automation-testing-noahrobinpolo/
 ├── run_test.py                (script para ejecutar pruebas y generar reporte)
 ├── report.html            (reporte generado por Pytest)
 |
-│├── assets/
+│── assets/
 │   └── style.css              (estilos para reportes o documentación)
+|
+|
 └── README.md
 
 Instalación de Dependencias
